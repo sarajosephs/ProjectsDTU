@@ -1,4 +1,4 @@
-# ProjectsDTU
+# Projects done at the Technical University of Denmark for M.Sc. in Mathematical Modelling and Computation
 
 ## 02612_ExamReport_s212952.pdf
 - Report in the course Constrained Optimization.  
